@@ -1,3 +1,4 @@
 <resources>
     <string name = "app_name">GifsLoader</string>
+    <string name="bad_network">Произошла ошибка при загрузке данных.\nПроверте подключение к сети.</string>
 </resources>
